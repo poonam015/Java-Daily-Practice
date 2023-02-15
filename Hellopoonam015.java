@@ -1,4 +1,3 @@
-
 // This is a My 1st simpal Java program.
  
 class Poonam
